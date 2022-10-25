@@ -4,7 +4,6 @@ Source Code :
 > To run this project : using RunnerTest with cucumber tags (@regression for running all features
 > For the cucumber report on to see latest running results : https://github.com/fenyekaputri1/Big_Project_Cilsy/blob/master/target/cucumber-report.html
 
-> Best Result : 
 
 Another Info :
 > Test case and bug reports : https://docs.google.com/spreadsheets/d/1E52c8Gl--VXFCh8HbtKtG-ydDXWSIakUmWG-MD9jpQ0/edit#gid=0
